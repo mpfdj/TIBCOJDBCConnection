@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DataSourceSample" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="DataSourceSample" />
+    <module name="TIBCOJDBCConnection" />
+    <option name="VM_PARAMETERS" value="-Doracle.net.encryption_client=REQUIRED -Doracle.net.encryption_types_client=AES256" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
